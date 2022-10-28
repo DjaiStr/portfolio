@@ -1,0 +1,26 @@
+ <div class="autobio">
+                <div class="content1">
+                    <h1>Ik ben <span>Djai Struik</span></h1>
+                    <h3>Dit is de officiële website van mijn portfolio.</h3>
+                </div>
+                <div class="content2">
+                    <p>Lorem ipsum dolor sit amet, consectetur
+                        adipiscing elit. Vivamus congue
+                        sollicitudin lectus vitae ornare.
+                        Praesent id consequat nulla. Interdum
+                        et malesuada fames ac ante ipsum primis in
+                        faucibus. Fusce risus ipsum, eleifend non dignissim at, gravida convallis ligula. Praesent
+                        dictum, magna eu congue varius, urna augue ullamcorper augue, nec lobortis mauris augue non
+                        turpis. Donec commodo metus a sapien scelerisque gravida. Pellentesque vitae sem imperdiet,
+                        rutrum erat a, rhoncus mi. Donec rhoncus quam leo, ut congue sem gravida at. Quisque sagittis,
+                        erat eget imperdiet ullamcorper, elit eros vestibulum nibh, commodo dignissim elit mi vitae
+                        arcu. Donec elit risus, tempus ut velit id, placerat eleifend augue. Fusce varius, mauris at
+                        ultrices tincidunt, turpis risus consectetur nibh, id congue purus tellus quis tortor.</p>
+                </div>
+
+            </div>
+
+            <div class="fotos">
+                <img src="foto-website.JPG">
+            </div>
+        

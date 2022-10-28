@@ -1,0 +1,37 @@
+
+.content1{
+    background:yellow;
+}
+.content2{
+    background:green;
+}
+span {
+    color:rgba(202, 31, 31, 0.84);
+}
+
+.page{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+    align-items: center;
+   
+}
+
+.content1,.content2{
+    margin:2%;
+}
+.content2{
+
+}
+.autobio{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: blueviolet;
+}
+.fotos img{ 
+  width: 500px; 
+   background: blue; 
+   margin-top:10%;
+}
